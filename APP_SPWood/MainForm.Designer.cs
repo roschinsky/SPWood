@@ -127,7 +127,7 @@
             this.listViewEntities.SmallImageList = this.imageListIcons;
             this.listViewEntities.TabIndex = 7;
             this.listViewEntities.UseCompatibleStateImageBehavior = false;
-            this.listViewEntities.View = System.Windows.Forms.View.SmallIcon;
+            this.listViewEntities.View = System.Windows.Forms.View.List;
             this.listViewEntities.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.listViewEntities_MouseDoubleClick);
             // 
             // imageListIcons
@@ -141,7 +141,7 @@
             // 
             this.checkBoxIncludeHidden.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.checkBoxIncludeHidden.AutoSize = true;
-            this.checkBoxIncludeHidden.Location = new System.Drawing.Point(363, 62);
+            this.checkBoxIncludeHidden.Location = new System.Drawing.Point(363, 78);
             this.checkBoxIncludeHidden.Name = "checkBoxIncludeHidden";
             this.checkBoxIncludeHidden.Size = new System.Drawing.Size(81, 17);
             this.checkBoxIncludeHidden.TabIndex = 8;
@@ -152,7 +152,7 @@
             // btnSaveCode
             // 
             this.btnSaveCode.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnSaveCode.Location = new System.Drawing.Point(364, 220);
+            this.btnSaveCode.Location = new System.Drawing.Point(363, 220);
             this.btnSaveCode.Name = "btnSaveCode";
             this.btnSaveCode.Size = new System.Drawing.Size(89, 23);
             this.btnSaveCode.TabIndex = 9;
