@@ -1,5 +1,4 @@
-# SPWood
-## The lightweight alternative to SPMetal
+# The lightweight alternative to SPMetal
 This tool generates C#-code representing SharePoint lists or libraries to wrap their field names in enums and additional properties in summary-comments.
 
 ![SPWood client](https://troschinsky.files.wordpress.com/2015/11/spwood.png?w=630)
